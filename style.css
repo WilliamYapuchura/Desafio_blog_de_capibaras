@@ -1,0 +1,32 @@
+* {
+    margin: 10;
+    padding: 10;
+    }
+
+body {
+    background-color: rgb(255, 228, 187);
+}
+
+.texto-destacado{
+    color: brown;
+}
+
+.titulo-blog{
+    color: brown;
+}
+
+.urgente{
+    color: crimson;
+}
+
+.problema{
+    color: brown;
+}
+
+.Infobae{
+    color: brown;
+}
+
+.Leanne{
+    color: brown;
+}
